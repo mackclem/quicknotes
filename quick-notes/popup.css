@@ -1,0 +1,20 @@
+body {
+  width: max-content;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.popup-title {
+  font-weight: 1200;
+  font-size: x-large;
+  font-family: 'Shadows Into Light', cursive;
+  background-color: rgb(234, 229, 178);
+  color: rgb(62, 61, 61);
+  width: 100%;
+  padding: 2px;
+}
+
+.popup-content {
+  font-family: monospace;
+  padding: 5px;
+}
